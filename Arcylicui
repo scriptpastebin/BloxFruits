@@ -10,7 +10,7 @@ local n = "Acrylic"
 
 local c = {
     Background = Color3.fromRGB(12, 12, 12),
-    Secondary = Color3.fromRGB(20, 20, 20),
+    Secondary = Color3.fromRGB(220, 220, 220),
     Border = Color3.fromRGB(39, 39, 39),
     Text = Color3.fromRGB(255, 255, 255),
     TextDark = Color3.fromRGB(120, 120, 120),
@@ -18,7 +18,7 @@ local c = {
     Accent = Color3.fromRGB(255, 255, 255),
     Toggle = {
         Enabled = Color3.fromRGB(255, 255, 255),
-        Disabled = Color3.fromRGB(110, 110, 110),
+        Disabled = Color3.fromRGB(100, 100, 100),
         Circle = Color3.fromRGB(50, 50, 50)
     },
     Notification = {
